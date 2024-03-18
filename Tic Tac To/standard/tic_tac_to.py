@@ -1,5 +1,5 @@
 from os import system
-from standard.modules_tic_tac_to import choose_symbol, board_index_print, choose_position, show_board, next_game, evaluate
+from modules_tic_tac_to import choose_symbol, board_index_print, choose_position, show_board, next_game, evaluate
 
 
 if __name__ == "__main__":
